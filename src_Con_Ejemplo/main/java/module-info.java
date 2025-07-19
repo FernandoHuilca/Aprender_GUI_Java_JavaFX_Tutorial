@@ -10,11 +10,10 @@ module Modulo_Ejercicios {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
-    requires java.desktop;
 
-
-    // Exporta el paquete de controladores para que FXML pueda acceder a él
     opens Modulo_Ejercicios.Controladores to javafx.fxml;
+    opens Modulo_Comunidad.Controladores to javafx.fxml;
+
 
     exports Modulo_Ejercicios.application;
     exports Modulo_Ejercicios.otrosModulos;
