@@ -1,0 +1,5 @@
+Declara una variable de tipo entera llamada edad:|int ____ = 20;|edad|edad|BASICO|JAVA
+Completa el método para sumar dos números:|public int sumar(int a, int b) {\n    return ____;\n}|a + b|a + b|BASICO|JAVA
+Completa la declaración de una constante:|public static final int MAX_VALUE = ____;|100|100|INTERMEDIO|JAVA
+Completa el bucle for para iterar de 0 a 9:|for(int i = 0; i < ____; i++) {\n    System.out.println(i);\n}|10|10|BASICO|JAVA
+Completa la condición del if para verificar si un número es positivo:|if(numero ____ 0) {\n    System.out.println(\"Positivo\");\n}|>|>|BASICO|JAVA

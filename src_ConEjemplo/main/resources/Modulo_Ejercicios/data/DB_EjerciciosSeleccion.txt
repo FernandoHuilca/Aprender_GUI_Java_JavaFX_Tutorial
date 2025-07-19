@@ -1,0 +1,7 @@
+¿Cuál de estos es un tipo de dato entero en Java?|String,boolean,double,int,Integer|int,Integer|BASICO|JAVA
+¿Qué tipo se usa para verdadero o falso?|String,boolean,double,int|boolean|BASICO|JAVA
+¿Cuáles de estos son tipos de datos primitivos en Java?|int,String,double,boolean,Integer,char|int,double,boolean,char|BASICO|JAVA
+¿Cuál es la palabra clave para declarar una constante en Java?|var,const,final,static|final|INTERMEDIO|JAVA
+¿Qué método se usa para imprimir en consola sin salto de línea?|println,print,printf,out|print|BASICO|JAVA
+HOLA COMO ESTA|bien|mal|BASICO|JAVA
+HOLA COMO ESTA|bien|mal|BASICO|JAVA
