@@ -307,10 +307,6 @@ module MiModulo {
 - [Scene Builder](https://gluonhq.com/products/scene-builder/)
 - [Maven Documentation](https://maven.apache.org/)
 
-### 🎥 Tutoriales Recomendados
-- [JavaFX Tutorial for Beginners](https://www.youtube.com/watch?v=FLkOX4Eez6o)
-- [Scene Builder Tutorial](https://www.youtube.com/watch?v=FLkOX4Eez6o)
-
 ### 🔧 Herramientas Útiles
 - **IntelliJ IDEA** - IDE recomendado
 - **Scene Builder** - Diseño visual de GUIs
@@ -338,7 +334,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre** - [@tu-usuario](https://github.com/tu-usuario)
+**Fernando Huilca** - [@fernando-huilca](https://github.com/fernando-huilca)
 
 ---
 
